@@ -1,0 +1,24 @@
+{
+  "name": "tai-backend",
+  "version": "1.0.0",
+  "description": "Backend code for tAI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likhithnemani/tAI-Backend.git"
+  },
+  "author": "Likhith Nemani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likhithnemani/tAI-Backend/issues"
+  },
+  "homepage": "https://github.com/likhithnemani/tAI-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ip": "^1.1.5"
+  }
+}
